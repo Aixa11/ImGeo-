@@ -38,7 +38,7 @@ _El sistema de login esta escrito en PHP, y se ejecuta desde la carpeta ("php-lo
 
 _Base de datos "php_login_database"_
 
-![image](https://github.com/Aixa11/ImGeo/php-login/docs/login1.gif)
+![image](https://github.com/Aixa11/ImGeo-/blob/main/php-login/docs/login1.gif)
 
 _Acceder desde la web_
 
@@ -46,7 +46,7 @@ _Acceder desde la web_
 http://localhost/ImGeo/php-login/
 ```
 ### Back-end
-![image](https://github.com/Aixa11/ImGeo/imgeo-master/docs/demo.gif)
+![image](https://github.com/Aixa11/ImGeo-/blob/main/imgeo-master/docs/demo.gif)
 ## Ejecutando las pruebas ⚙️
 
 _Mas info aqui_
